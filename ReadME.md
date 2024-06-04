@@ -22,4 +22,4 @@ Neapdorotas atvejis, kai vartotojas neturi pakankamai pinigų sumokėti už mėn
 
 ### Naudojimas
 
-loan_manager.exe <originalAmount> <interestRate> <lateInterestRate> <termMonths>
+loan_manager.exe \<originalAmount> \<interestRate> \<lateInterestRate> \<termMonths>
